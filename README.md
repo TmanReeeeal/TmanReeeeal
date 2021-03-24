@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tman
+- 👋 Hi, I’m Tman
 - 👀 I’m interested in robotics, engineering, and coding.
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: tmanrocksout@gmail.com
